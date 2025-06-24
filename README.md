@@ -57,27 +57,6 @@ To build a professional dashboard that:
 ![image](https://github.com/user-attachments/assets/9addb701-322c-4bc9-88b4-e097781254dd)
 
 
----
-
-## 📦 File Structure
-
-fraud-risk-dashboard/
- etl_pipeline.py # Python script for ETL
-   data/
-      transactions.csv # Raw data
-      cleaned_transactions.csv # Output from ETL
- Fraud_ETL_Dashboard.pbix # Power BI dashboard file
- fraud_dashboard.ipynb # Optional notebook for EDA
- README.md # Project documentation
-
-
----
-
-## 🚀 How to Use
-
-1. Run `etl_pipeline.py` to generate `cleaned_transactions.csv`.
-2. Open `Fraud_ETL_Dashboard.pbix` using Power BI Desktop.
-3. Explore the dashboard interactively using filters and visuals.
 
 ---
 
