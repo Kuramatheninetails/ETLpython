@@ -54,7 +54,7 @@ To build a professional dashboard that:
 
 ## 📸 Dashboard Preview
 
-> *(Insert screenshot of your Power BI dashboard here)*
+
 
 ---
 
