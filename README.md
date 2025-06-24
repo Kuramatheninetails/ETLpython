@@ -54,6 +54,7 @@ To build a professional dashboard that:
 
 ## 📸 Dashboard Preview
 
+![image](https://github.com/user-attachments/assets/9addb701-322c-4bc9-88b4-e097781254dd)
 
 
 ---
