@@ -61,18 +61,14 @@ To build a professional dashboard that:
 ## 📦 File Structure
 
 fraud-risk-dashboard/
-│
-├── etl_pipeline.py # Python script for ETL
-├── data/
-│ ├── transactions.csv # Raw data
-│ └── cleaned_transactions.csv # Output from ETL
-├── Fraud_ETL_Dashboard.pbix # Power BI dashboard file
-├── fraud_dashboard.ipynb # Optional notebook for EDA
-└── README.md # Project documentation
+ etl_pipeline.py # Python script for ETL
+   data/
+      transactions.csv # Raw data
+      cleaned_transactions.csv # Output from ETL
+ Fraud_ETL_Dashboard.pbix # Power BI dashboard file
+ fraud_dashboard.ipynb # Optional notebook for EDA
+ README.md # Project documentation
 
-yaml
-Copy
-Edit
 
 ---
 
